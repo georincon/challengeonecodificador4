@@ -6,7 +6,7 @@ El proyecto ha sido desarrollado como parte del programa Oracle Next Education e
 
 ![Challenge Alura Latam + Oracle](https://raw.githubusercontent.com/EduardoUT/Encriptador-Oracle-ONE-Challenge/master/img/challengeImage.jpg)
 
-**Página Web:**
+**Subido a Github**
 
 Publicado en el topic: https://github.com/georincon/challengeonecodificador4
 
